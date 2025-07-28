@@ -1,7 +1,13 @@
-## 📸 Screenshots
+## Screenshots
 
-![Home Page](./assets/Screenshots/Home.png)
-![Feature Demo](./assets/Screenshots/Explore.png)
-![Tracks](./assets/Screenshots/Track.png)
-![Resources](./assets/Screenshots/Resources.png)
+### Explore
+![Explore](src/assets/Explore.png)
 
+### Home
+![Home](src/assets/Home.png)
+
+### Resources
+![Resources](src/assets/Resources.png)
+
+### Track
+![Track](src/assets/Track.png)
