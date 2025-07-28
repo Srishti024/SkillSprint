@@ -1,13 +1,5 @@
 ## 📸 Screenshots
-
-### 🧭 Explore  
-![Explore](Screenshots/Explore.png)
-
-### 🏠 Home  
-![Home](Screenshots/Home.png)
-
-### 📚 Resources  
-![Resources](Screenshots/Resources.png)
-
-### 📈 Track  
-![Track](Screenshots/Track.png)
+![Explore](public/Screenshots/Explore.png)
+![Home](public/Screenshots/Home.png)
+![Resources](public/Screenshots/Resources.png)
+![Track](public/Screenshots/Track.png)
